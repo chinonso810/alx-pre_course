@@ -8,4 +8,6 @@ TASKS
 		. js/index.js
 	2. created a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
 	3. Created a file bash/school with this two lines inside: #!/bin/bash and echo "School"
+	4. Updated the file bash/alx
+	5. Deleted the sub-directory js
 	
