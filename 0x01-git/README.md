@@ -10,4 +10,6 @@ TASKS
 	3. Created a file bash/school with this two lines inside: #!/bin/bash and echo "School"
 	4. Updated the file bash/alx
 	5. Deleted the sub-directory js
+## Updating my alx-pre_course repository from Github.com
+	1. updated my README.md file in the main branch from Github.com and added a commit message.
 	
