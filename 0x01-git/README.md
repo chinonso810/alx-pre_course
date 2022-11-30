@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TASKS
 # Created this (0x01-git) directory
 
@@ -12,4 +13,10 @@ TASKS
 	5. Deleted the sub-directory js
 ## Updating my alx-pre_course repository from Github.com
 	1. updated my README.md file in the main branch from Github.com and added a commit message.
+=======
+## Created a branch update_script.
+	1. Added an empty file named bash/98.
+	2. Updated bash/alx by replacing echo "ALX" with echo "ALX School"
+	3. Updated bash/schop by replacing echo "School" with echo "The school is open!"
+>>>>>>> update_script
 	
