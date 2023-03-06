@@ -1,3 +1,4 @@
-#!/bin/bash
+#!/bin/bas
 echo "I resolved more merge conflict errors"
-
+echo "I resolved more merge conflict errors and updated my branches"
+git checkout master -- example_on_merge_conflict
